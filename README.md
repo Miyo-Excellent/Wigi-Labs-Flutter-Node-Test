@@ -49,8 +49,8 @@ Un posible diseño de aplicación podría ser:
 Primero debes instalar node (https://bit.ly/nodejswg) si ya lo tienes instalado, puedes continuar.
 
 ```
-$ git clone https://github.com/jsngonzalez/pruebaDesarrolloWG.git
-$ cd pruebaDesarrolloWG
+$ git clone https://github.com/jsngonzalez/prueba-esarrollo-flutter-WG.git
+$ cd prueba-esarrollo-flutter-WG
 $ npm install
 $ npm start
 ```
