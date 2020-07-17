@@ -8,6 +8,7 @@ En tu archivo README debes poner:
 +--------------------------------+ 
 | Nombre                         |
 | Correo                         |
+| Teléfono                       |
 | Por qué te gusta flutter?      |
 | Screenshots de tu apliación    |
 +--------------------------------+
