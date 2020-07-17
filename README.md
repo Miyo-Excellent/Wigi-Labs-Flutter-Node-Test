@@ -1,8 +1,16 @@
 # Prueba de desarrollo wigilabs
 
 ## Antes de que empieces
-Deberás crear un repositorio privado de GitHub utilizando la información que proporcionamos en este archivo README e invitar como colaboradores: @jsngonzalez
+Deberás crear un repositorio privado de GitHub utilizando la información que proporcionamos en este archivo e invitar como colaboradores: @jsngonzalez
+En tu archivo README debes poner:
++--------------------------------+ 
+| Nombre                         |
+| Correo                         |
+| Por qué te gusta flutter?      |
+| Screenshots de tu apliación    |
++--------------------------------+
 Si tienes dudas puede escribir a: jgonzalez@wigilabs.com
+
 
 ## La prueba
 Crea una aplicación en Flutter simple para contar cosas. Deberás cumplir con las altas expectativas de calidad y funcionalidad. Debes cumplir al menos con lo siguiente:
