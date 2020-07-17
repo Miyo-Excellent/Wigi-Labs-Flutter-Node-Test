@@ -2,13 +2,16 @@
 
 ## Antes de que empieces
 Deberás crear un repositorio privado de GitHub utilizando la información que proporcionamos en este archivo e invitar como colaboradores: @jsngonzalez
+
 En tu archivo README debes poner:
+```
 +--------------------------------+ 
 | Nombre                         |
 | Correo                         |
 | Por qué te gusta flutter?      |
 | Screenshots de tu apliación    |
 +--------------------------------+
+```
 Si tienes dudas puede escribir a: jgonzalez@wigilabs.com
 
 
