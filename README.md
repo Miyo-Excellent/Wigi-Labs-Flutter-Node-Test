@@ -5,13 +5,16 @@ Deberás crear un repositorio privado de GitHub utilizando la información que p
 
 En tu archivo README debes poner:
 ```
-+--------------------------------+ 
-| Nombre                         |
-| Correo                         |
-| Teléfono                       |
-| Por qué te gusta flutter?      |
-| Screenshots de tu apliación    |
-+--------------------------------+
++----------------------------------------------------------------+
+| Nombre:   Michell Excellent Marin                              |
+| Correo:   Theofficesmichell@gmail.com                          |
+| Teléfono: +573105951890                                        |
+| ¿Por qué te gusta flutter?                                     |
+|    Flutter me parece un excelente herramienta de desarrollo,   |
+|    tiene un increíble rendimiento, es muy flexible y me agrada |
+|    mucho el lenguaje Dart                                      |
+| Screenshots de tu apliación                                    |
++----------------------------------------------------------------+
 ```
 Si tienes dudas puede escribir a: jgonzalez@wigilabs.com
 
