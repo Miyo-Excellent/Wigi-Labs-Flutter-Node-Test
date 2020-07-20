@@ -1,3 +1,7 @@
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
 # Prueba de desarrollo wigilabs
 
 ## Antes de que empieces
@@ -16,8 +20,13 @@ En tu archivo README debes poner:
 | Screenshots de tu apliación                                    |
 +----------------------------------------------------------------+
 ```
-Si tienes dudas puede escribir a: jgonzalez@wigilabs.com
 
+![](https://raw.githubusercontent.com/Miyo-Excellent/Wigi-Labs-Flutter-Node-Test/master/assets/snapshots/Screenshot_1595209628.png)
+
+![](https://raw.githubusercontent.com/Miyo-Excellent/Wigi-Labs-Flutter-Node-Test/master/assets/snapshots/Screenshot_1595209631.png)
+
+![](https://github.com/Miyo-Excellent/Wigi-Labs-Flutter-Node-Test/blob/master/assets/snapshots/movie.gif?raw=true)
+Si tienes dudas puede escribir a: jgonzalez@wigilabs.com
 
 ## La prueba
 Crea una aplicación en Flutter simple para contar cosas. Deberás cumplir con las altas expectativas de calidad y funcionalidad. Debes cumplir al menos con lo siguiente:
