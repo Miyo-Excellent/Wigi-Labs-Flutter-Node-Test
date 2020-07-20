@@ -3,7 +3,7 @@ var app         = express();
 var bodyParser  = require("body-parser");
 var compression = require("compression");
 var morgan      = require("morgan");
-var counters    = require("./lib/counters");
+var counters    = require("./controllers/counters");
 
 app.use(morgan("combined"));
 app.use(bodyParser.json());
